@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evaluation1</string>
+    <string name="baseHint">Enter Base</string>
+    <string name="heightHint">Enter Height</string>
+    <string name="calculateLabel">CALCULATE</string>
+    <string name="resetLabel">RESET</string>
+    <string name="areaLabel">= N/A</string>
+</resources>
